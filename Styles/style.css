@@ -21,3 +21,7 @@ body {
 .wrapper { max-width: 1580px; width: 100%; margin: 0 auto; padding: 0 15px; }
 .splide__slide { background-color: crimson; padding: 100px; text-align: center; font-size: 36px; font-weight: 500; color: #FFF; }
 .splide__track { margin: 0 5rem; }
+
+h1 {
+    font-size: 64px;
+}
