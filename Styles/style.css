@@ -55,7 +55,13 @@ p{
 ul {
     list-style: none;
 }
-
 input { 
     font-size: 16px;
+}
+label {
+    font-size: 14px;
+    font-weight: 700;
+}
+input::placeholder {
+    color: #DEDEDE;
 }
