@@ -64,4 +64,5 @@ label {
 }
 input::placeholder {
     color: #DEDEDE;
+    font-size: 18px;
 }
